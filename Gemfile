@@ -6,6 +6,7 @@ gem 'rails', '4.2.0'
 
 #improve performance instead of webrick
 gem 'mongrel', '1.2.0pre2'
+gem 'bson', '~> 2.3.0'
 
 gem 'mongoid', github: 'mongoid/mongoid'
 gem 'slim-rails'

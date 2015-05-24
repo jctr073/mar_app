@@ -396,6 +396,7 @@ DEPENDENCIES
   anjlab-bootstrap-rails!
   better_errors
   binding_of_caller
+  bson (~> 2.3.0)
   capybara
   carrierwave
   coffee-rails (~> 4.1.0)
